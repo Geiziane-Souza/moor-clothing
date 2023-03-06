@@ -1,0 +1,127 @@
+a {
+    text-decoration: none !important;
+    color: #DBB671;
+}
+/* NAVBAR */
+.navbar-moor {
+    font-family: 'Rock Salt', cursive;
+}
+.nav-texto{
+    font-size: 12px !important;
+}
+.icon-class {
+    position: relative;
+}
+.icon-class span {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    display: block;
+}
+/* carrossel */
+.imagem-carrossel-1 {
+    height: 100vh;
+    object-fit: cover; 
+}
+.imagem-carrossel {
+    height: 100vh;
+    object-fit: cover; 
+    object-position: 10% 0;
+}
+.texto-off {
+    font-size: 3rem;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.botao:hover{
+    border-color: rgb(119, 101, 55) !important;
+}
+
+.info {
+    padding: 10px;
+}
+
+.info .info-texto {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+}
+
+.produtos-itens {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    padding: 10px;    
+}
+.produto-stars {
+    color: yellow !important;
+}
+.roupas-modelo-precos {
+    padding: 10px;   
+}
+
+.botao-veja {
+    padding: 10px;
+    background: #DBB671;
+}
+
+.botao-veja{
+    border-color: rgb(119, 101, 55) !important;
+}
+
+.btn-secondary {
+    background-color:#DBB671 !important;
+}
+
+.btn-warning {
+    background-color: #DBB671 !important;
+}
+
+.breadcrumb {
+    background: initial;
+    margin: 40px 0;
+    padding: 0;
+}
+.breadcrumb a{
+    color: #DBB671;
+}
+
+.produtos {
+    margin: 30px 0;
+}
+
+.produtos .produtos-container {
+    margin: 30px 0;
+}
+
+.produtos .produtos-container .produtos-itens {
+    color: #343A40;
+  }
+
+.produtos .produtos-container .produto-itens h3 {
+    font-size: 16px;
+    margin: 10px 0 0;
+}
+
+.produtos .produtos-container .produtos-itens .produtos-stars svg {
+    fill: #FFC107;
+}
+
+.produtos .produtos-container .produtos-itens .produtos-preco {
+    font-size: 16px;
+  }
+
+.produtos-compra figure {
+    margin: 0%;
+}
+
+.produtos-compra .produtos-conteudo h1{
+    margin: 0;
+    font-size: 32px;
+
+}
+
+.produtos-compra .produtos-conteudo p{
+    font-size: 16px;
+}
+/* responsividade */
+
